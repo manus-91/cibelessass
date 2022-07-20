@@ -1,0 +1,26 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.bg-light{
+    background-color: $white;
+}
+
+.bg-green{
+    background-color: $mainColor;
+}
+
+.carousel-inner{
+    height: 40vh
+
+}
+
+.encabezado__box--white{
+    text-align: center;
+    background-color: $white;
+    padding: 1px;
+    font-size: medium;
+	justify-content: center;
+    }

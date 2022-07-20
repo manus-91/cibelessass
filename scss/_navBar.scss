@@ -1,0 +1,18 @@
+#botonera{
+    background-color: $mainColor;
+    img{
+        width: 200px;
+    }
+    ul{
+        display: flex;
+        li{
+            list-style: none;
+            a{
+                font-family: $mainFont;
+                font-size: $textMd;
+                
+                
+            }
+        }
+    }
+}

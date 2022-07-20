@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Roboto:wght@300;400;500&display=swap');
+$mainFont: 'Roboto', sans-serif;
+$secondaryFont: 'Nunito', sans-serif;
+
+$textSm: 8em;
+$textMd: 1em;
+$textLg: 2em;
+$texXl: 3em;
+
+$bold:600;
+$regular:400;
+$light:300;
+
+//clases//
+
+.quienessomos__articulo{
+    width: 90%;
+    height: auto;
+    margin: 50px auto;
+    padding: 20px 30px;
+    border: double 2px $secondaryColor;
+    background-color: $mainColor;
+}
+
+.img-prom{
+    height: 100vh;
+    width: 100%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.valores__articulo{
+    font-size: 1.5rem;
+    width: 90%;
+    height: 100px;
+    margin: 50px auto;
+    padding: 50px 30px;
+    border: double 2px $secondaryColor;
+    overflow-x: auto;
+    overflow-y: scroll;
+}

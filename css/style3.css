@@ -1,0 +1,131 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.encabezado__box--white{
+    text-align: center;
+    background-color: white;
+    padding: 1px;
+    font-size: medium;
+	justify-content: center;
+    }
+
+.bg-green{
+    background-color: rgba(235, 233, 126, 0.678);
+}
+
+#botonera img{
+	width: 200px;
+}
+
+
+.pie{
+    padding: 10px 0;
+	background-color: white;
+	text-align: center;
+}
+
+
+.pie__icon--sm{
+    width: 50px;
+}
+
+.pie__icon--sm{
+    width: 50px;
+}
+
+.pie__titulo--md{
+    font-size: 1.5rem;
+}
+
+
+    .carousel-inner{
+        height: 40vh
+
+    }
+
+    
+    /* cierra nav y carrousel */
+
+
+    /* empieza quienes somos page */
+    
+
+    .bg-light{
+        background-color: #D6D4D4;
+    }
+    
+
+    .quienessomos__articulo{
+        width: 90%;
+        height: auto;
+        margin: 50px auto;
+        padding: 20px 30px;
+        border: double 2px yellowgreen;
+        background-color: rgba(235, 233, 126, 0.678);
+    }
+
+    .valores__articulo{
+        font-size: 1.5rem;
+        width: 90%;
+        height: 100px;
+        margin: 50px auto;
+        padding: 50px 30px;
+        border: double 2px yellowgreen;
+        overflow-x: auto;
+        overflow-y: scroll;
+    }
+
+    .valores__articulo2{
+        font-size: 1.5rem;
+        width: 90%;
+        height: 100px;
+        margin: 50px auto;
+        padding: 50px 30px;
+        border: double 2px yellowgreen;
+        overflow-x: auto;
+        overflow-y: auto;
+    }
+        
+
+
+
+    /* cierra quienes somos page */
+
+    /* empieza productos */
+
+    .text-center{
+        text-align: center;
+    }
+
+    #nuestrosp{
+    text-align: center;
+    width: 90%;
+    height: auto;
+    margin: 50px auto;
+    padding: 20px 30px;
+    border: double 2px yellowgreen;
+    background-color: rgba(235, 233, 126, 0.678);
+    }
+
+    /* termmina productos */
+
+    
+    /* empieza promociones */
+
+    .img-prom{
+        height: 100vh;
+        width: 100%;
+    }
+
+    /* cierra promociones */
+
+    
+    /* empieza contacto */
+
+    .iframe{
+        padding-top: 30px;
+    }
